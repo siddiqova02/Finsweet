@@ -1,0 +1,17 @@
+.finsweetUsers-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 80px;
+    gap: 55px;
+}
+.number{
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 56px;
+}
+.finsweetUsers-text{
+    font-size: 16px;
+    line-height: 28px;
+    opacity: 70%;
+}

@@ -1,0 +1,44 @@
+.ourBlog-section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.ourBlog-section-div{
+    width: 100%;
+    max-width: 1400px;
+    display: flex;
+    flex-direction: column;
+    padding: 80px;
+    gap: 30px;
+}
+.ourBlog-cards{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.ourBlog-card{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.card-img{
+    width: 350px;
+    height: 285px;
+}
+.card-date{
+    font-size: 16px;
+    font-weight: 28px;
+    opacity: 70%;
+}
+.card-text1{
+    width: 350px;
+    /* height: 108px; */
+    font-size: 24px;
+    line-height: 36px;
+}
+.card-text2{
+    width: 405px;
+    font-size: 16px;
+    font-weight: 28px;
+    opacity: 70%;
+}

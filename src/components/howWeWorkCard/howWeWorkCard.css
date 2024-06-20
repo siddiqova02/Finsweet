@@ -1,0 +1,14 @@
+.how-we-work-card{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.how-we-work-card-img{
+    width: 50px;
+    height: 50px;
+}
+.how-we-work-card-text{
+    width: 270px;
+    line-height: 28px;
+    opacity: 70%;
+}

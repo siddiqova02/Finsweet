@@ -1,0 +1,27 @@
+.features-section {
+  display: flex;
+  flex-direction: column;
+  background: #F4F6FC;
+  padding: 100px 80px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.features-title{
+    width: 610px;
+    display: flex;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    text-align: center;
+}
+.features_cards{
+  display: flex;
+  /* flex-direction: column; */
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.card-div1{
+  display: flex;
+  gap: 20px;
+}

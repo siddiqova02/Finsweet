@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "title": "Strategy",
+    "images": "assets/images/howWeWorkCard1.svg"
+  },
+  {
+    "id": 1,
+    "title": "Wireframing",
+    "images": "assets/images/howWeWorkCard2.svg"
+  },
+  {
+    "id": 2,
+    "title": "Design",
+    "images": "assets/images/howWeWorkCard3.svg"
+  },
+  {
+    "id": 3,
+    "title": "Development",
+    "images": "assets/images/howWeWorkCard4.svg"
+  }
+]

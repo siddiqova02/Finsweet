@@ -1,0 +1,31 @@
+.performance_benefits_section{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    padding: 80px;
+}
+.benefints-title{
+    width: 630px;
+    display: flex;
+    font-size: 48px;
+    line-height: 64px;
+    text-align: center;
+    margin: 0 auto;
+}
+.meetOurTeam-section{
+    display: flex;
+    flex-direction: column;
+    background: rgba(244, 246, 252, 1);
+    padding: 80px;
+    gap: 50px;
+}
+.team-title{
+    font-size: 48px;
+    text-align: center;
+}
+.meetOurTeam-card{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}

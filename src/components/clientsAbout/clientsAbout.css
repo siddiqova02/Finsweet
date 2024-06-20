@@ -1,0 +1,80 @@
+.clientsAbout-section{
+    display: flex;
+    padding: 80px;
+    background: #f0f0f5;
+    gap: 120px;
+    justify-content: center;
+}
+.section-left{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.section-left-title{
+    width: 327px;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 56px;
+}
+.section-left-text{
+    width: 327px;
+    line-height: 28px;
+    opacity: 70%;
+}
+.section-right{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.section-right-text{
+    width: 750px;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 48px;
+    font-weight: 500;
+}
+.contact{
+    display: flex;
+    gap: 450px;
+    align-items: center;
+}
+.img-firstname{
+    display: flex;
+    gap: 12px;
+}
+.contact-img{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.firsName{
+    font-size: 18px;
+    line-height: 30px;
+}
+.vice-president{
+    font-size: 12px;
+    line-height: 24px;
+}
+.icons-1{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: darkgray;
+    margin-right: -12px;
+}
+.icons-2{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}

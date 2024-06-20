@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "title": "Uses Client First",
+        "images": "assets/images/Icon1.png"
+    },
+    {
+        "id": 1,
+        "title": "Two Free Revision Round",
+        "images": "assets/images/Icon2.png"
+    },
+    {
+        "id": 2,
+        "title": "Template Customization",
+        "images": "assets/images/Icon3.png"
+    },
+    {
+        "id": 3,
+        "title": "24/7 Support",
+        "images": "assets/images/Icon4.png"
+    },
+    {
+        "id": 4,
+        "title": "Quick Delivery",
+        "images": "assets/images/Icon5.png"
+    },
+    {
+        "id": 5,
+        "title": "Hands-on approach",
+        "images": "assets/images/Icon6.png"
+    }
+]

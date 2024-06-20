@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "images": "assets/images/Icon6.png",
+    "title": "Customize with ease"
+  },
+  {
+    "id": 1,
+    "images": "assets/images/Icon3.png",
+    "title": "Perfectly Responsive"
+  },
+  {
+    "id": 2,
+    "images": "assets/images/Icon1.png",
+    "title": "Friendly Support"
+  }
+]

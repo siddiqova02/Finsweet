@@ -1,0 +1,94 @@
+.building_stellar_section {
+  display: flex;
+  justify-content: center;
+}
+.buildingForm {
+  display: flex;
+  padding: 40px 80px;
+}
+.buildingStellar {
+  position: absolute;
+  z-index: -99;
+}
+.buildingBackground {
+  position: absolute;
+  z-index: -99;
+  width: 656px;
+  height: 691px;
+  background-color: rgb(46, 46, 112);
+  opacity: 40%;
+}
+.building-title-text {
+  display: flex;
+  flex-direction: column;
+  padding: 100px;
+  gap: 30px;
+}
+.building-title {
+  width: 450px;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 74px;
+}
+.building-text {
+  width: 410px;
+  font-size: 16px;
+  line-height: 28px;
+}
+.form {
+  width: 530px;
+  height: 691px;
+  background-color: rgb(46, 46, 112);
+  padding: 70px 90px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.send_inquiry{
+    font-size: 32px;
+    line-height: 48px;
+    color: white;
+}
+.form-text{
+    width: 380px;
+    font-size: 16px;
+    line-height: 28px;
+    color: white;
+    font-size: 16px;
+}
+.form-inputs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.form-inputs input{
+    width: 410px;
+    height: 60px;
+    background-color: rgb(46, 46, 112);
+    border: 1px solid rgb(122, 118, 118);
+    border-radius: 10px;
+    padding: 30px;
+    outline: none;
+    color: rgb(211, 199, 199);
+    font-size: 17px;
+}
+.form-button{
+    width: 100%;
+    height: inherit;
+    padding: 20px;
+    background: rgba(252, 217, 128, 1);
+    border: none;
+    border-radius: 41px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.Get_In_Touch{
+    display: flex;
+    margin-top: 15px;
+}

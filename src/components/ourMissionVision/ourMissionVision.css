@@ -1,0 +1,33 @@
+.ourMisVis-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 60px 80px;
+    gap: 70px;
+    background: rgba(238, 244, 250, 1);
+}
+.ourMission{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
+.ourVision{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+}
+.ourMissionVision{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.mis-vis-tile{
+    font-size: 38px;
+}
+.mis-vis-text2{
+    width: 550px;
+    line-height: 28px;
+    opacity: 70%;
+}

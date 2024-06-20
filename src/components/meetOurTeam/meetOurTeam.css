@@ -1,0 +1,18 @@
+
+.team-card{
+    width: 270px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0px;
+}
+.firstName{
+    font-size: 24px;
+}
+.career{
+    font-size: 16px;
+    opacity: 70%;
+}

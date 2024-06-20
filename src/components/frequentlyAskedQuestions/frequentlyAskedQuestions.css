@@ -1,0 +1,40 @@
+.frequently_Asked_Questions_section{
+    display: flex;
+    justify-content: center;
+    padding: 80px;
+    gap: 180px;
+}
+.frequently_Asked_Questions{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.frequently_Asked_title{
+    width: 328px;
+    font-size: 38px;
+    line-height: 56px;
+    font-weight: 600;
+}
+.questions_btn{
+    font-size: 18px;
+    color: #2405F2;
+}
+.number_questions{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.questions{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.questions span{
+    width: 650px;
+    height: 1px;
+    background-color: rgb(185, 179, 179);
+}
+.number{
+    font-size: 24px;
+    color: #2405F2;
+}

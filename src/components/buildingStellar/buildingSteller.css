@@ -1,0 +1,43 @@
+.building_steller{
+    display: flex;
+    background-color: #1C1E53;
+    padding: 100px 80px;
+    justify-content: center;
+}
+.building_title_text_btn{
+    width: 582px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.building-title{
+    font-size: 54px;
+    font-weight: 600;
+    color: white;
+    line-height: 74px;
+}
+.building-text{
+    width: 500px;
+    line-height: 28px;
+    color: white;
+    opacity: 70%;
+}
+.building-btn{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.view-our-work{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    width: 190px;
+    height: 50px;
+    background: #FCD980;
+    border-radius: 41px;
+}
+.buildingImg{
+    width: 638px;
+    height: 361px;
+}

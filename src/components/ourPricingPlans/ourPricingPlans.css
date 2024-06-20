@@ -1,0 +1,19 @@
+.OurPricingPlans-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    gap: 20px;
+}
+.ourPricingPlans-title{
+    font-size: 48px;
+}
+.ourPricingPlans-text{
+    width: 500px;
+    display: flex;
+    text-align: center;
+    font-size: 16px;
+    opacity: 70%;
+    line-height: 28px;
+}

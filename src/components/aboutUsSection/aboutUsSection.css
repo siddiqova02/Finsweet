@@ -1,0 +1,25 @@
+.aboutUsSection{
+    display: flex;
+    padding: 80px;
+    justify-content: center;
+    gap: 40px;
+}
+.aboutUs-information{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.about_us{
+    font-size: 18px;
+}
+.aboutUs-title{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 74px;
+}
+.aboutUs-text{
+    width: 430px;
+    font-size: 16px;
+    opacity: 70%;
+    line-height: 28px;
+}

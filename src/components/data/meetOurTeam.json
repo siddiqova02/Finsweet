@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "images": "assets/images/firstName1.svg",
+        "firstName": "John Smith",
+        "career": "CEO"
+    },
+    {
+        "id": 1,
+        "images": "assets/images/firstName2.svg",
+        "firstName": "Simon Adams",
+        "career": "CTO"
+    },
+    {
+        "id": 2,
+        "images": "assets/images/firstName3.svg",
+        "firstName": "Paul Jones",
+        "career": "Design Lead"
+    },
+    {
+        "id": 3,
+        "images": "assets/images/firstName4.svg",
+        "firstName": "Sara Hardin",
+        "career": "Project Manager"
+    }
+]

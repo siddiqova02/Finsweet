@@ -1,0 +1,23 @@
+.benefitsCard{
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+    background: rgba(244, 246, 252, 1);
+    padding: 40px;
+    gap: 20px;
+}
+.icon{
+    width: 32px;
+    height: 32px;
+}
+.benefits-text{
+    width: 324px;
+    font-size: 16px;
+    line-height: 28px;
+    opacity: 70%;
+}
+.benefits_cards{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}

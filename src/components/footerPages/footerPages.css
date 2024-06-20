@@ -1,0 +1,17 @@
+.footerPages{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 80px;
+    gap: 540px;
+}
+.footerPages a{
+    color: black;
+    font-size: 16px;
+}
+.footer-nav {
+    display: flex;
+    gap: 30px;
+}
